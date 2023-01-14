@@ -1,3 +1,7 @@
+# platform uses Python 3.8
+# waiting for AWS >= 3.10 update:
+# https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
+# TODO: when we do also test Bites with newer dependencies
 bs4==0.0.1
 cryptography==3.3.2
 feedparser==5.2.1
