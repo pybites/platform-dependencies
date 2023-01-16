@@ -4,7 +4,7 @@
 # TODO: when we do also test Bites with newer dependencies
 bs4==0.0.1
 cryptography==3.3.2
-feedparser==5.2.1
+feedparser==6.0.10
 Flask==1.1.2
 gender-guesser==0.4.0
 joblib==1.2.0
