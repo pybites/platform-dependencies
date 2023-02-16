@@ -39,5 +39,5 @@ toml==0.10.2
 tqdm==4.46.0
 urllib3==1.26.5
 wcwidth==0.1.9
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 xlrd==1.2.0
