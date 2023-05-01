@@ -8,7 +8,7 @@ click==7.1.2
 coverage==5.1
 cryptography==39.0.1
 feedparser==5.2.1
-Flask==1.1.2
+Flask==2.3.2
 gender-guesser==0.4.0
 idna==2.9
 iniconfig==1.1.1
