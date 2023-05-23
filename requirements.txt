@@ -14,7 +14,7 @@ nltk==3.6.6
 pandas==1.1.4
 python-dateutil==2.8.1
 pytz==2020.1
-requests==2.27.1
+requests==2.31.0
 textblob==0.15.3
 xlrd==1.2.0
 faker==13.3.2
