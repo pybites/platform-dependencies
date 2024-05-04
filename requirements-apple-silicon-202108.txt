@@ -36,7 +36,7 @@ six==1.15.0
 soupsieve==2.0.1
 textblob==0.15.3
 toml==0.10.2
-tqdm==4.46.0
+tqdm==4.66.3
 urllib3==1.26.18
 wcwidth==0.1.9
 Werkzeug==3.0.1
