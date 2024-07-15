@@ -26,7 +26,7 @@ passlib==1.7.4
 python-jose==3.3.0
 python-multipart==0.0.7
 sqlmodel==0.0.6
-setuptools==65.5.1  # needed for feedparser 5.2.1
+setuptools==70.0.0  # needed for feedparser 5.2.1
 # test deps
 pytest==7.2.0
 pytest-cov==4.0.0
