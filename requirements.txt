@@ -3,7 +3,7 @@
 # https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html
 # TODO: when we do also test Bites with newer dependencies
 bs4==0.0.1
-cryptography==42.0.4
+cryptography==43.0.1
 feedparser==6.0.10
 Flask==2.3.2
 gender-guesser==0.4.0
